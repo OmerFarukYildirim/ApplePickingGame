@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Scenes/elma_oyunu.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
